@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<books>
+  <book1>
+    <title>Web Development Technologies</title>
+    <author>John</author>
+    <isbn>296749</isbn>  
+    <price>560</price>
+    <publisher>Pearson</publisher>
+    <edition>4th edition</edition>
+  </book1>
+  <book2>
+    <title>Artificial Intelligence</title>
+    <author>King and Knight</author>
+    <isbn>95907</isbn>  
+    <price>350</price>
+    <publisher>fadns</publisher>
+    <edition>3rd edition</edition>
+  </book2>
+</books> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
